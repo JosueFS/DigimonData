@@ -1,0 +1,33 @@
+.boxContent{
+    
+    display: inline-block;
+    position: static;
+    width: 200px;
+    height: 200px;
+    border: solid 1pt red;
+}
+
+p{
+    text-align: center;
+    margin: 1px;
+}
+
+.digiImg{
+    margin: auto;
+    display: block;
+    /* border: solid 1pt; */
+    max-width: 80%;
+    max-height: 79%;
+}
+
+.digiName{
+    display: block;
+    /* background-color: aquamarine; */
+}
+
+
+
+.digiLevel{
+    display: block;
+    /* background-color: crimson; */
+}
